@@ -1,0 +1,11 @@
+doctype html
+html
+  head
+    title= title
+    include styles.jade
+    include scripts.jade
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    block style
+  body
+    block content
+    block scripts
