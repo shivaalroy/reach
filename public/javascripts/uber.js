@@ -1,4 +1,4 @@
-var SERVER_TOKEN = 'O8ENYIg16poyg1lysoEPrN1VAqcL1vWadlCVDbfv'
+var SERVER_TOKEN = 'm5c9KmBBG9SCPe3-iM6YzIm9hy4ztpdyGYJa_Vvw'
 
 function getFareEstimate(startLat,startLng,endLat,endLng) {
   $.ajax({
